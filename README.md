@@ -42,7 +42,7 @@ Precision, recall and F1 are weighted averages on the 200 test samples. **SVM ga
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/vehicle-classification-ml.git
+git clone https://github.com/<srivallireddy-sr>/vehicle-classification-ml.git
 cd vehicle-classification-ml
 pip install -r requirements.txt
 python vehicle_classification.py
